@@ -7,5 +7,5 @@
   "iot_class": "cloud_polling",
   "name": "Israel Railways",
   "requirements": [],
-  "version": "1.0.0"
+  "version": "6.1.1-platform"
 }
