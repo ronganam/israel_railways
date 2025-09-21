@@ -2,3 +2,5 @@
 
 DOMAIN = "israel_railways"
 DEFAULT_NAME = "Israel Railways"
+VERSION = "6.1.1"
+API_ENDPOINT = "https://api.israelrailways.co.il"
